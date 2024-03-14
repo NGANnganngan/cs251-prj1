@@ -1,0 +1,13 @@
+leaf position: 23
+leaf value: "data item 23"
+Hash values in proof:
+  43r5mJoo28u+D3IBXs/NfZEaLlMM8KkQGrJev+N5xHk=
+  H1GB8x6QzcNGuHDZhVuYtSVsaRfHib9xxfqTP26ttWM=
+  mesW4/jSIZ9G2q+ZCL9xe3y6r5UDp1FHicbeldAxFbQ=
+  mZ5y1U3d/wNwkVEWvN/vQbgT0pO4BYLLuAJ0+nkHRxM=
+  Lqxlfsyvja712jFDg/4oOnMOy7VY0kHgMMikG3IBeBQ=
+  WvKwt85bJ+/dLi3E924qtr43OwNHvFBcYij4vN3+DKg=
+  NJFch+5zT/i3C7QjP+hFHf0l2TXCyYFjWYhffLbHlN8=
+  FP24vS8Xd/nfd+lEEPM8KnAMcnuS7lcLrlX/sOvmjR8=
+  k2gokRSfhSJsyBjnj8/GvxDvilSmCUdm0wlhO9wSlZE=
+  suvPN/Iy9ix69Jq60Tyn7eWVF5kDF/5pZMaGdjHHogQ=
